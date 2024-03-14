@@ -9,7 +9,7 @@ class Circle {
     getRadius() {
         return this.radius;
     }
-s
+
     setRadius(radius) {
         this.radius = radius;
     }
